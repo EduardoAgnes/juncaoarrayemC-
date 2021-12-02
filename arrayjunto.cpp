@@ -1,3 +1,5 @@
+//Implemente um sistema que o usuário entre com 5 valores em um array e indetifique quais valores se repetem e suas posições.
+
 #include <iostream>
 
 using namespace std;
